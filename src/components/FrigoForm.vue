@@ -19,6 +19,7 @@ function handlerSubmit() {
   qte.value = "";
 }
 
+
 const url = "https://webmmi.iut-tlse3.fr/~pecatte/frigo/public/8/produits";
 </script>
 
@@ -51,7 +52,20 @@ const url = "https://webmmi.iut-tlse3.fr/~pecatte/frigo/public/8/produits";
     <input type="text" v-model="qte" placeholder="Combien ?" /> <br>
     <br>
     <input type="submit" value="Valider" />
+
+    <br>
+    <br>
+    <br>
+
+    <p><a href="https://www.marmiton.org/recettes/recette_mousse-au-chocolat-facile_13585.aspx"> <p><img src='./Chocolat.png'></p></a> </p>
+    
   </form>
+
+
+
+
+
+
 </template>
 
 

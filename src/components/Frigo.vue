@@ -10,7 +10,7 @@ const listeC = reactive([]);
 
 
 // -- l'url de l'API
-const url = "https://webmmi.iut-tlse3.fr/~pecatte/frigo/public/14/produits";
+const url = "https://webmmi.iut-tlse3.fr/~pecatte/frigo/public/8/produits";
 
 
 
@@ -135,7 +135,7 @@ function handlerMoins(aliment) {
 
 
 function handlerRecherche(mot){
-    const urlPers = "https://webmmi.iut-tlse3.fr/~pecatte/frigo/public/14/produits?search=";
+    const urlPers = "https://webmmi.iut-tlse3.fr/~pecatte/frigo/public/8/produits?search=";
     let fetchOptions = { method: "GET" };
 
 
