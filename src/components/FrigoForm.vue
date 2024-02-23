@@ -57,7 +57,7 @@ const url = "https://webmmi.iut-tlse3.fr/~pecatte/frigo/public/8/produits";
     <br>
     <br>
 
-    <p><a href="https://www.marmiton.org/recettes/recette_mousse-au-chocolat-facile_13585.aspx"> <p><img src='./Chocolat.png'></p></a> </p>
+    <p><a href='https://www.marmiton.org/recettes/recette_mousse-au-chocolat-facile_13585.aspx'> <p><img src='./Chocolat.png'></p></a> </p>
     
   </form>
 
